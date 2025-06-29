@@ -1,0 +1,1 @@
+This is a console-based ATM simulation project developed in C++ that simulates an ATM machine and supports multiple users. It provides features such as user registration, login, cash withdrawal, balance inquiry, mobile number update, transaction history tracking, and account locking for security after multiple incorrect PIN attempts.
